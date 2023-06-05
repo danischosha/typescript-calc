@@ -37,3 +37,7 @@ function fun2() {
 function func3() {
     console.log("My third function")
 }
+
+function fun3(){
+    console.log('another funcftion')
+}
